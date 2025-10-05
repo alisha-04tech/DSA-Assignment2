@@ -1,0 +1,8 @@
+[project]
+org-name = "user"
+version = "0.1.0"
+
+
+[dependencies]
+"ballerinax/mysql" = "4.6.0"
+
